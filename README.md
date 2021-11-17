@@ -1,28 +1,19 @@
-### Welcome to the Blue Oyster Bar 👮‍♂️💅
 
-<!--
-**ClausStolz/ClausStolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, my name is Claus. I am a developer from Russia, 
+I type code on `c#` and `python`. Now I currently working on `Arb programming language`.
 
-Here are some ideas to get you started:
+📫 How to reach me:
+1. telegram - @clausstolz
+2. email - me@stolz.tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profile stats
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
+<td align="center" style="padding=0;width=100%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ClausStolz&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
 
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=ClausStolz&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
-    </td>
-  </tr>
-</table>
-
+### Live coding stats
+  
+<td align="center" style="padding=0;width=100%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ClausStolz&layout=compact" />
+    
+    
