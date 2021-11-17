@@ -12,6 +12,6 @@ I'm professional writing code on `c#` and `python`. Now I currently working on `
 ### Live coding stats
   
 <td align="center" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ClausStolz&layout=compact" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ClausStolz&layout=compact&hide_border=true" />
     
     
