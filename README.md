@@ -2,6 +2,8 @@
 ## Hi, my name is Claus. I am a developer from Russia, 
 I type code on `c#` and `python`. Now I currently working on `Arb programming language`.
 
+<img width="638" alt="Снимок экрана 2021-11-04 в 01 16 55" src="https://user-images.githubusercontent.com/11678570/142091335-bc0d3300-8990-4eaa-8adb-8b768c42bd92.png">
+
 📫 How to reach me:
 1. telegram - @clausstolz
 2. email - me@stolz.tech
