@@ -1,6 +1,6 @@
 
-### Hi, my name is Claus. I'm a developer from Russia, 
-I'm professional writing code on `c#` and `python`.
+### Hi, my name is Claus. I'm a developer from Russia
+I'm professionally writing code on `c#` and `python`.
 
 Now I currently working on `Arb programming language`.
 
