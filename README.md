@@ -1,14 +1,17 @@
 
-### Hi, my name is Claus. I'm a developer from Russia
+### Hi, my name is Claus. I'm a developer from Russia 
 I'm professionally writing code on `c#` and `python`.
 
-Now I currently working on `SmartEnums` lib.
+Now I currently working on `SmartEnums` lib and train my skills on codewars: 
+
+[![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
+
+
 Next in development is `Arb programming language`.
 
 ### Profile stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/clausstolz/clausstolz)](https://badges.pufler.dev)
-[![Codewars Badge](https://www.codewars.com/users/Claus%20Stolz/badges/micro)](https://www.codewars.com/users/Claus%20Stolz)
 [![Created Badge](https://badges.pufler.dev/created/clausstolz/timetable)](https://badges.pufler.dev)
 
 
