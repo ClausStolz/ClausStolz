@@ -8,7 +8,7 @@ Now I currently:
 
      [![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
 
-
+Next in development is `SQRA`
 ### Profile stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/clausstolz/clausstolz)](https://badges.pufler.dev)
