@@ -2,11 +2,11 @@
 ### Hi, my name is Claus. I'm a developer from Russia 
 I'm professionally writing code on `c#` and `python`.
 
-Now I currently: working on `Arb programming language` and train my skills on codewars: 
+Now I currently: working on `YSMC` and train my skills on codewars: 
 
 [![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
 
-Next in development is `SQRA`.
+Next in development are `SQRA` and `Arb programming language`.
 ### Profile stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/clausstolz/clausstolz)](https://badges.pufler.dev)
