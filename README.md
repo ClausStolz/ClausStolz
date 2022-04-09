@@ -2,11 +2,12 @@
 ### Hi, my name is Claus. I'm a developer from Russia 
 I'm professionally writing code on `c#` and `python`.
 
-Now I currently: working on [`SmartEnums`](https://github.com/ClausStolz/SmartEnums) and train my skills on codewars: 
+Now I currently: working on [`SmartEnums`](https://github.com/ClausStolz/SmartEnums) and `Arb programming language`
+
+Train my skills on codewars: 
 
 [![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
 
-Next in development are [`SQRA`](https://github.com/ClausStolz/SQRA) and `Arb programming language`.
 ### Profile stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/clausstolz/clausstolz)](https://badges.pufler.dev)
