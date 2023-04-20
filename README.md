@@ -1,13 +1,17 @@
-
+⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕
+✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️
 ### Hi, my name is Claus. I'm a developer from Russia 
 I'm professionally writing code on `c#` and `python`.
 
 Now I currently: working on [`SmartEnums`](https://github.com/ClausStolz/SmartEnums) and `Arb programming language`
 
-Train my skills on codewars: 
+Train my skills: 
 
 [![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
 
+[![LeetCode user clausstolz](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fclausstolz&logo=leetcode&logoColor=yellow)](https://leetcode.com/clausstolz/)
+
+### :memo: Techonlogy stack
 ### Profile stats
 
 [![Visits Badge](https://badges.pufler.dev/visits/clausstolz/clausstolz)](https://badges.pufler.dev)
