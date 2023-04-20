@@ -1,10 +1,19 @@
+<div align="center">
+      
 ⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️ \
-✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕
-### Hi, my name is Claus. I'm a developer from Russia 
-I'm professionally writing code on `c#` and `python`.
-
-Now I currently: working on [`SmartEnums`](https://github.com/ClausStolz/SmartEnums) and `Arb programming language`
-
+✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕ 
+</div>
+<br />
+<div align="center">
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=1F1F1F&center=true&multiline=true&width=435&height=100&lines=Hi%2C+my+name+is+Claus;I'm+a+dotnet+developer+from+Russia;(currently+based+in+Tbilisi%2C+Georgia))](https://git.io/typing-svg)
+</div>
+<br />
+<div align="center">
+      
+⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕ \
+✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️  
+</div>
 Train my skills: 
 
 [![Codewars Badge](https://www.codewars.com/users/clausstolz/badges/micro)](https://www.codewars.com/users/clausstolz)
@@ -25,5 +34,9 @@ Train my skills:
   
 <td align="center" style="padding=0;width=100%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=ClausStolz&layout=compact&hide_border=true" />
-    
-    
+ 
+<div align="center">
+ 
+✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕ \
+⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️
+</div>
