@@ -1,0 +1,48 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 800 100'
+    style='background-color: #00000000;'
+    width='800px' height='100px'>
+
+    
+        <path id='path19'>
+                            <!-- Multiline -->
+                                <animate id='d19' attributeName='d' begin='0s'
+                    dur='60000ms' fill="freeze"
+                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' keyTimes='0;0.95;0.98333333333333;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#1F1F1F' font-size='18'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path19'>
+            And after many years, it is safe to say that the hero chose the right path
+        </textPath>
+    </text>
+        <path id='path20'>
+                            <!-- Multiline -->
+                                <animate id='d20' attributeName='d' begin='0s'
+                    dur='63000ms' fill="freeze"
+                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' keyTimes='0;0.95238095238095;0.98412698412698;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#1F1F1F' font-size='18'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path20'>
+            in his career. He reached senior level, was a team leader, was a solution 
+        </textPath>
+    </text>
+        <path id='path21'>
+                            <!-- Multiline -->
+                                <animate id='d21' attributeName='d' begin='0s'
+                    dur='66000ms' fill="freeze"
+                    values='m0,69 h0 ; m0,69 h0 ; m0,69 h800 ; m0,69 h800' keyTimes='0;0.95454545454545;0.98484848484848;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#1F1F1F' font-size='18'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path21'>
+            architect, but even after all this, he continues to get better
+        </textPath>
+    </text>
+</svg>

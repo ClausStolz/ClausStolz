@@ -1,0 +1,35 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 800 100'
+    style='background-color: #00000000;'
+    width='800px' height='100px'>
+
+    
+        <path id='path17'>
+                            <!-- Multiline -->
+                                <animate id='d17' attributeName='d' begin='0s'
+                    dur='54000ms' fill="freeze"
+                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' keyTimes='0;0.94444444444444;0.98148148148148;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path17'>
+            But one day the hero got acquainted with the C# programming language and his 
+        </textPath>
+    </text>
+        <path id='path18'>
+                            <!-- Multiline -->
+                                <animate id='d18' attributeName='d' begin='0s'
+                    dur='57000ms' fill="freeze"
+                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' keyTimes='0;0.94736842105263;0.98245614035088;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path18'>
+            life took on colors again. He began to study it more and more
+        </textPath>
+    </text>
+</svg>
