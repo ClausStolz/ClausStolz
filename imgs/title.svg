@@ -7,7 +7,7 @@
     
                 <path id='path0'>
                             <!-- Multiline -->
-                                <animate id='d0' attributeName='d' begin='0s;d2.end'
+                                <animate id='d0' attributeName='d' begin='0s'
                     dur='3000ms' fill="freeze"
                     values='m0,23 h0 ; m0,23 h0 ; m0,23 h435 ; m0,23 h435' keyTimes='0;0;0.66666666666667;1' />
                     </path>
@@ -20,7 +20,7 @@
     </text>
         <path id='path1'>
                             <!-- Multiline -->
-                                <animate id='d1' attributeName='d' begin='0s;d2.end'
+                                <animate id='d1' attributeName='d' begin='0s'
                     dur='6000ms' fill="freeze"
                     values='m0,46 h0 ; m0,46 h0 ; m0,46 h435 ; m0,46 h435' keyTimes='0;0.5;0.83333333333333;1' />
                     </path>
@@ -33,7 +33,7 @@
     </text>
         <path id='path2'>
                             <!-- Multiline -->
-                                <animate id='d2' attributeName='d' begin='0s;d2.end'
+                                <animate id='d2' attributeName='d' begin='0s'
                     dur='9000ms' fill="freeze"
                     values='m0,69 h0 ; m0,69 h0 ; m0,69 h435 ; m0,69 h435' keyTimes='0;0.66666666666667;0.88888888888889;1' />
                     </path>

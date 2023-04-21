@@ -9,7 +9,7 @@
                 
         <path id='path0'>
                             <!-- Multiline -->
-                                <animate id='d0' attributeName='d' begin='0s;d5.end'
+                                <animate id='d0' attributeName='d' begin='0s'
                     dur='18000ms' fill="freeze"
                     values='m0,23 h0 ; m0,23 h0 ; m0,23 h435 ; m0,23 h435' keyTimes='0;0.83333333333333;0.94444444444444;1' />
                     </path>

@@ -9,7 +9,7 @@
                 
         <path id='path0'>
                             <!-- Multiline -->
-                                <animate id='d1' attributeName='d' begin='0s;d2.end'
+                                <animate id='d1' attributeName='d' begin='0s'
                     dur='12000ms' fill="freeze"
                     values='m0,23 h0 ; m0,23 h0 ; m0,23 h435 ; m0,23 h435' keyTimes='0;0.75;0.91666666666667;1' />
                     </path>
@@ -22,7 +22,7 @@
     </text>
         <path id='path1'>
                             <!-- Multiline -->
-                                <animate id='d2' attributeName='d' begin='0s;d2.end'
+                                <animate id='d2' attributeName='d' begin='0s'
                     dur='15000ms' fill="freeze"
                     values='m0,46 h0 ; m0,46 h0 ; m0,46 h435 ; m0,46 h435' keyTimes='0;0.8;0.93333333333333;1' />
                     </path>
