@@ -5,8 +5,8 @@
 </div>
 <br />
 <div align="center">
-      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=1000&pause=1000&color=9C4747&center=true&multiline=true&width=435&height=100&lines=Hi%2C+my+name+is+Claus;I'm+a+dotnet+developer+from+Russia;(currently+based+in+Tbilisi%2C+Georgia))](https://git.io/typing-svg)
+
+![Typing SVG](./imgs/title.svg)
 </div>
 <br />
 <div align="center">
@@ -14,13 +14,13 @@
 ⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕ \
 ✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️  
 </div>
-<div align="center">
+<div align="center" class="block_1">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1000&pause=1000&color=9C4747&center=true&multiline=true&width=435&height=50&lines=+;+;+;I+decided+to+tell+about+myself+;in+the+form+of+a+fairy+tale)](https://git.io/typing-svg)
+![Typing SVG](./imgs/block_1_1.svg)
 </div>
 <div align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=1000&pause=5000&color=9C4747&multiline=true&repeat=false&width=435&height=100&lines=+;Enjoy+reading!)](https://git.io/typing-svg)
+![Typing SVG](./imgs/block_1_2.svg)
 </div>
 <br />    
 Train my skills: 
