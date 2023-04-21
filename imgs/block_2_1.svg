@@ -6,42 +6,43 @@
     width='800px' height='100px'>
 
     
-                <path id='path0'>
+                
+        <path id='path6'>
                             <!-- Multiline -->
-                                <animate id='d0' attributeName='d' begin='0s'
+                                <animate id='d6' attributeName='d' begin='0s'
                     dur='21000ms' fill="freeze"
-                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' keyTimes='0;0.83333333333333;0.94444444444444;1' />
+                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' keyTimes='0;0.85714285714286;0.95238095238095;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path0'>
+        <textPath xlink:href='#path6'>
             Far, far away, or rather in Vladivostok, one boy was born. 
         </textPath>
     </text>
-        <path id='path1'>
+        <path id='path7'>
                             <!-- Multiline -->
-                                <animate id='d1' attributeName='d' begin='0s'
+                                <animate id='d7' attributeName='d' begin='0s'
                     dur='24000ms' fill="freeze"
-                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' keyTimes='0;0.83333333333333;0.94444444444444;1' />
+                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' keyTimes='0;0.875;0.95833333333333;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path1'>
+        <textPath xlink:href='#path7'>
             Then there were hard times, the gods did not yet give people the Internet,
         </textPath>
     </text>
-        <path id='path2'>
+        <path id='path8'>
                             <!-- Multiline -->
-                                <animate id='d2' attributeName='d' begin='0s'
+                                <animate id='d8' attributeName='d' begin='0s'
                     dur='27000ms' fill="freeze"
-                    values='m0,69 h0 ; m0,69 h0 ; m0,69 h800 ; m0,69 h800' keyTimes='0;0.66666666666667;0.88888888888889;1' />
+                    values='m0,69 h0 ; m0,69 h0 ; m0,69 h800 ; m0,69 h800' keyTimes='0;0.88888888888889;0.96296296296296;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path2'>
+        <textPath xlink:href='#path8'>
             and from entertainment there was only the destruction of nettles with a stick.
         </textPath>
     </text>
