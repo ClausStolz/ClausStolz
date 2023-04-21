@@ -217,7 +217,7 @@
 
     <path id='path10'>
         <animate id='d10' 
-            attributeName='d' \
+            attributeName='d'
             begin='0s'
             dur='66000ms' 
             fill="freeze"

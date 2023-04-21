@@ -1,9 +1,9 @@
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 800 50'
+    viewBox='0 0 800 80'
     style='background-color: #00000000;'
     width='800px' 
-    height='50px'>
+    height='80px'>
 
     <path id='path0'>
         <animate id='d0' 
@@ -36,7 +36,7 @@
             keyTimes='0;0.94117647058824;0.98039215686275;1' />
     </path>
     <text font-family='"Fira Code", monospace' 
-        fill='#1F1F1F' 
+        fill='#1F1F1F'
         font-size='18'
         dominant-baseline='auto'
         x='50%' 
