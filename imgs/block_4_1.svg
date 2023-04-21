@@ -1,371 +1,594 @@
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
     viewBox='0 0 800 650'
     style='background-color: #00000000;'
-    width='800px' height='650px'>
+    width='800px' 
+    height='650px'>
 
-        <path id='path22'>
-                            <!-- Multiline -->
-                                <animate id='d22' attributeName='d' begin='0s'
-                    dur='69000ms' fill="freeze"
-                    values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' keyTimes='0;0.95652173913043;0.98550724637681;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+    <path id='path0'>
+        <animate id='d0' 
+            attributeName='d' 
+            begin='0s'
+            dur='46000ms' 
+            fill="freeze"
+            values='m0,23 h0 ; m0,23 h0 ; m0,23 h800 ; m0,23 h800' 
+            keyTimes='0;0.95652173913043;0.98550724637681;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path22'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path0'>
             Sometimes he turns around, looks at all this path traveled, 
         </textPath>
     </text>
-        <path id='path23'>
-                            <!-- Multiline -->
-                                <animate id='d23' attributeName='d' begin='0s'
-                    dur='72000ms' fill="freeze"
-                    values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' keyTimes='0;0.95833333333333;0.98611111111111;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path1'>
+        <animate id='d1' 
+            attributeName='d' 
+            begin='0s'
+            dur='48000ms' 
+            fill="freeze"
+            values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' 
+            keyTimes='0;0.95833333333333;0.98611111111111;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' б
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path23'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path1'>
             looks at the technologies he has studied:
         </textPath>
     </text>
-        <path id='path24'>
-                            <!-- Multiline -->
-                                <animate id='d24' attributeName='d' begin='0s'
-                    dur='75000ms' fill="freeze"
-                    values='m0,69 h0 ; m0,69 h0 ; m0,69 h800 ; m0,69 h800' keyTimes='0;0.96;0.98666666666667;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path2'>
+        <animate id='d2' 
+            attributeName='d' 
+            begin='0s'
+            dur='50000ms' 
+            fill="freeze"
+            values='m0,69 h0 ; m0,69 h0 ; m0,69 h800 ; m0,69 h800' 
+            keyTimes='0;0.96;0.98666666666667;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path24'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path2'>
             - Dotnet Framework 4.*
         </textPath>
     </text>
-        <path id='path25'>
-                            <!-- Multiline -->
-                                <animate id='d25' attributeName='d' begin='0s'
-                    dur='78000ms' fill="freeze"
-                    values='m0,92 h0 ; m0,92 h0 ; m0,92 h800 ; m0,92 h800' keyTimes='0;0.96153846153846;0.98717948717949;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path3'>
+        <animate id='d3' 
+            attributeName='d' 
+            begin='0s'
+            dur='52000ms' 
+            fill="freeze"
+            values='m0,92 h0 ; m0,92 h0 ; m0,92 h800 ; m0,92 h800' 
+            keyTimes='0;0.96153846153846;0.98717948717949;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path25'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path3'>
             - Dotnet Core 
         </textPath>
     </text>
-        <path id='path26'>
-                            <!-- Multiline -->
-                                <animate id='d26' attributeName='d' begin='0s'
-                    dur='81000ms' fill="freeze"
-                    values='m0,115 h0 ; m0,115 h0 ; m0,115 h800 ; m0,115 h800' keyTimes='0;0.96296296296296;0.98765432098765;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path4'>
+        <animate id='d4' 
+            attributeName='d' 
+            begin='0s'
+            dur='54000ms' 
+            fill="freeze"
+            values='m0,115 h0 ; m0,115 h0 ; m0,115 h800 ; m0,115 h800' 
+            keyTimes='0;0.96296296296296;0.98765432098765;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path26'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path4'>
             - Dotnet 5/6
         </textPath>
     </text>
-        <path id='path27'>
-                            <!-- Multiline -->
-                                <animate id='d27' attributeName='d' begin='0s'
-                    dur='84000ms' fill="freeze"
-                    values='m0,138 h0 ; m0,138 h0 ; m0,138 h800 ; m0,138 h800' keyTimes='0;0.96428571428571;0.98809523809524;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path5'>
+        <animate id='d5' 
+            attributeName='d' 
+            begin='0s'
+            dur='56000ms' 
+            fill="freeze"
+            values='m0,138 h0 ; m0,138 h0 ; m0,138 h800 ; m0,138 h800' 
+            keyTimes='0;0.96428571428571;0.98809523809524;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path27'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path5'>
              
         </textPath>
     </text>
-        <path id='path28'>
-                            <!-- Multiline -->
-                                <animate id='d28' attributeName='d' begin='0s'
-                    dur='87000ms' fill="freeze"
-                    values='m0,161 h0 ; m0,161 h0 ; m0,161 h800 ; m0,161 h800' keyTimes='0;0.96551724137931;0.98850574712644;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path6'>
+        <animate id='d6' 
+            attributeName='d' 
+            begin='0s'
+            dur='58000ms' 
+            fill="freeze"
+            values='m0,161 h0 ; m0,161 h0 ; m0,161 h800 ; m0,161 h800' 
+            keyTimes='0;0.96551724137931;0.98850574712644;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path28'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path6'>
             - WPF
         </textPath>
     </text>
-        <path id='path29'>
-                            <!-- Multiline -->
-                                <animate id='d29' attributeName='d' begin='0s'
-                    dur='90000ms' fill="freeze"
-                    values='m0,184 h0 ; m0,184 h0 ; m0,184 h800 ; m0,184 h800' keyTimes='0;0.96666666666667;0.98888888888889;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path7'>
+        <animate id='d7' 
+            attributeName='d' 
+            begin='0s'
+            dur='60000ms' 
+            fill="freeze"
+            values='m0,184 h0 ; m0,184 h0 ; m0,184 h800 ; m0,184 h800' 
+            keyTimes='0;0.96666666666667;0.98888888888889;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path29'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path7'>
             - WinForms
         </textPath>
     </text>
-        <path id='path30'>
-                            <!-- Multiline -->
-                                <animate id='d30' attributeName='d' begin='0s'
-                    dur='93000ms' fill="freeze"
-                    values='m0,207 h0 ; m0,207 h0 ; m0,207 h800 ; m0,207 h800' keyTimes='0;0.96774193548387;0.98924731182796;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path8'>
+        <animate id='d8' 
+            attributeName='d' 
+            begin='0s'
+            dur='62000ms' 
+            fill="freeze"
+            values='m0,207 h0 ; m0,207 h0 ; m0,207 h800 ; m0,207 h800' 
+            keyTimes='0;0.96774193548387;0.98924731182796;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path30'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path8'>
             - MAUI 
         </textPath>
     </text>
-        <path id='path31'>
-                            <!-- Multiline -->
-                                <animate id='d31' attributeName='d' begin='0s'
-                    dur='96000ms' fill="freeze"
-                    values='m0,230 h0 ; m0,230 h0 ; m0,230 h800 ; m0,230 h800' keyTimes='0;0.96875;0.98958333333333;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path9'>
+        <animate id='d9' 
+            attributeName='d' 
+            begin='0s'
+            dur='64000ms' 
+            fill="freeze"
+            values='m0,230 h0 ; m0,230 h0 ; m0,230 h800 ; m0,230 h800' 
+            keyTimes='0;0.96875;0.98958333333333;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path31'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path9'>
             - DevExpress
         </textPath>
     </text>
-        <path id='path32'>
-                            <!-- Multiline -->
-                                <animate id='d32' attributeName='d' begin='0s'
-                    dur='99000ms' fill="freeze"
-                    values='m0,253 h0 ; m0,253 h0 ; m0,253 h800 ; m0,253 h800' keyTimes='0;0.96969696969697;0.98989898989899;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path10'>
+        <animate id='d10' 
+            attributeName='d' \
+            begin='0s'
+            dur='66000ms' 
+            fill="freeze"
+            values='m0,253 h0 ; m0,253 h0 ; m0,253 h800 ; m0,253 h800' 
+            keyTimes='0;0.96969696969697;0.98989898989899;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path32'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path10'>
              
         </textPath>
     </text>
-        <path id='path33'>
-                            <!-- Multiline -->
-                                <animate id='d33' attributeName='d' begin='0s'
-                    dur='102000ms' fill="freeze"
-                    values='m0,276 h0 ; m0,276 h0 ; m0,276 h800 ; m0,276 h800' keyTimes='0;0.97058823529412;0.99019607843137;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path11'>
+        <animate id='d11' 
+            attributeName='d' 
+            begin='0s'
+            dur='68000ms' 
+            fill="freeze"
+            values='m0,276 h0 ; m0,276 h0 ; m0,276 h800 ; m0,276 h800' 
+            keyTimes='0;0.97058823529412;0.99019607843137;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path33'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path11'>
             - Entity Framework
         </textPath>
     </text>
-        <path id='path34'>
-                            <!-- Multiline -->
-                                <animate id='d34' attributeName='d' begin='0s'
-                    dur='105000ms' fill="freeze"
-                    values='m0,299 h0 ; m0,299 h0 ; m0,299 h800 ; m0,299 h800' keyTimes='0;0.97142857142857;0.99047619047619;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path12'>
+        <animate id='d12' 
+            attributeName='d' 
+            begin='0s'
+            dur='70000ms' 
+            fill="freeze"
+            values='m0,299 h0 ; m0,299 h0 ; m0,299 h800 ; m0,299 h800' 
+            keyTimes='0;0.97142857142857;0.99047619047619;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' ю
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path34'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path12'>
             - Dapper
         </textPath>
     </text>
-        <path id='path35'>
-                            <!-- Multiline -->
-                                <animate id='d35' attributeName='d' begin='0s'
-                    dur='108000ms' fill="freeze"
-                    values='m0,322 h0 ; m0,322 h0 ; m0,322 h800 ; m0,322 h800' keyTimes='0;0.97222222222222;0.99074074074074;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path13'>
+        <animate id='d13' 
+            attributeName='d' 
+            begin='0s'
+            dur='72000ms' 
+            fill="freeze"
+            values='m0,322 h0 ; m0,322 h0 ; m0,322 h800 ; m0,322 h800' 
+            keyTimes='0;0.97222222222222;0.99074074074074;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path35'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path13'>
             - MS SQL
         </textPath>
     </text>
-        <path id='path36'>
-                            <!-- Multiline -->
-                                <animate id='d36' attributeName='d' begin='0s'
-                    dur='111000ms' fill="freeze"
-                    values='m0,345 h0 ; m0,345 h0 ; m0,345 h800 ; m0,345 h800' keyTimes='0;0.97297297297297;0.99099099099099;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path14'>
+        <animate id='d14' 
+            attributeName='d' 
+            begin='0s'
+            dur='74000ms' 
+            fill="freeze"
+            values='m0,345 h0 ; m0,345 h0 ; m0,345 h800 ; m0,345 h800' 
+            keyTimes='0;0.97297297297297;0.99099099099099;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path36'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path14'>
             - PostgreSQL
         </textPath>
     </text>
-        <path id='path37'>
-                            <!-- Multiline -->
-                                <animate id='d37' attributeName='d' begin='0s'
-                    dur='114000ms' fill="freeze"
-                    values='m0,368 h0 ; m0,368 h0 ; m0,368 h800 ; m0,368 h800' keyTimes='0;0.97368421052632;0.99122807017544;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path15'>
+        <animate id='d15' 
+            attributeName='d' 
+            begin='0s'
+            dur='76000ms' 
+            fill="freeze"
+            values='m0,368 h0 ; m0,368 h0 ; m0,368 h800 ; m0,368 h800' 
+            keyTimes='0;0.97368421052632;0.99122807017544;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path37'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path15'>
             - MongoDB
         </textPath>
     </text>
-        <path id='path38'>
-                            <!-- Multiline -->
-                                <animate id='d38' attributeName='d' begin='0s'
-                    dur='117000ms' fill="freeze"
-                    values='m0,391 h0 ; m0,391 h0 ; m0,391 h800 ; m0,391 h800' keyTimes='0;0.97435897435897;0.99145299145299;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path16'>
+        <animate id='d16' 
+            attributeName='d' 
+            begin='0s'
+            dur='78000ms' 
+            fill="freeze"
+            values='m0,391 h0 ; m0,391 h0 ; m0,391 h800 ; m0,391 h800' 
+            keyTimes='0;0.97435897435897;0.99145299145299;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path38'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path16'>
             - ClickHouse
         </textPath>
     </text>
-        <path id='path39'>
-                            <!-- Multiline -->
-                                <animate id='d39' attributeName='d' begin='0s'
-                    dur='120000ms' fill="freeze"
-                    values='m0,414 h0 ; m0,414 h0 ; m0,414 h800 ; m0,414 h800' keyTimes='0;0.975;0.99166666666667;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path17'>
+        <animate id='d17' 
+            attributeName='d' 
+            begin='0s'
+            dur='80000ms' 
+            fill="freeze"
+            values='m0,414 h0 ; m0,414 h0 ; m0,414 h800 ; m0,414 h800' 
+            keyTimes='0;0.975;0.99166666666667;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path39'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path17'>
             - Redis
         </textPath>
     </text>
-        <path id='path40'>
-                            <!-- Multiline -->
-                                <animate id='d40' attributeName='d' begin='0s'
-                    dur='123000ms' fill="freeze"
-                    values='m0,437 h0 ; m0,437 h0 ; m0,437 h800 ; m0,437 h800' keyTimes='0;0.97560975609756;0.99186991869919;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path18'>
+        <animate id='d18' 
+            attributeName='d' 
+            begin='0s'
+            dur='82000ms' 
+            fill="freeze"
+            values='m0,437 h0 ; m0,437 h0 ; m0,437 h800 ; m0,437 h800' 
+            keyTimes='0;0.97560975609756;0.99186991869919;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path40'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path18'>
             - ELK
         </textPath>
     </text>
-        <path id='path41'>
-                            <!-- Multiline -->
-                                <animate id='d41' attributeName='d' begin='0s'
-                    dur='126000ms' fill="freeze"
-                    values='m0,460 h0 ; m0,460 h0 ; m0,460 h800 ; m0,460 h800' keyTimes='0;0.97619047619048;0.99206349206349;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path19'>
+        <animate id='d19' 
+            attributeName='d' 
+            begin='0s'
+            dur='84000ms' 
+            fill="freeze"
+            values='m0,460 h0 ; m0,460 h0 ; m0,460 h800 ; m0,460 h800' 
+            keyTimes='0;0.97619047619048;0.99206349206349;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path41'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path19'>
              
         </textPath>
     </text>
-        <path id='path42'>
-                            <!-- Multiline -->
-                                <animate id='d42' attributeName='d' begin='0s'
-                    dur='129000ms' fill="freeze"
-                    values='m0,483 h0 ; m0,483 h0 ; m0,483 h800 ; m0,483 h800' keyTimes='0;0.97674418604651;0.9922480620155;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path20'>
+        <animate id='d20' 
+            attributeName='d' 
+            begin='0s'
+            dur='86000ms' 
+            fill="freeze"
+            values='m0,483 h0 ; m0,483 h0 ; m0,483 h800 ; m0,483 h800' 
+            keyTimes='0;0.97674418604651;0.9922480620155;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path42'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path20'>
             - IIS
         </textPath>
     </text>
-        <path id='path43'>
-                            <!-- Multiline -->
-                                <animate id='d43' attributeName='d' begin='0s'
-                    dur='132000ms' fill="freeze"
-                    values='m0,506 h0 ; m0,506 h0 ; m0,506 h800 ; m0,506 h800' keyTimes='0;0.97727272727273;0.99242424242424;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path21'>
+        <animate id='d21' 
+            attributeName='d' 
+            begin='0s'
+            dur='88000ms' 
+            fill="freeze"
+            values='m0,506 h0 ; m0,506 h0 ; m0,506 h800 ; m0,506 h800' 
+            keyTimes='0;0.97727272727273;0.99242424242424;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path43'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path21'>
             - Azure
         </textPath>
     </text>
-        <path id='path44'>
-                            <!-- Multiline -->
-                                <animate id='d44' attributeName='d' begin='0s'
-                    dur='135000ms' fill="freeze"
-                    values='m0,529 h0 ; m0,529 h0 ; m0,529 h800 ; m0,529 h800' keyTimes='0;0.97777777777778;0.99259259259259;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path22'>
+        <animate id='d22' 
+            attributeName='d' 
+            begin='0s'
+            dur='90000ms' 
+            fill="freeze"
+            values='m0,529 h0 ; m0,529 h0 ; m0,529 h800 ; m0,529 h800' 
+            keyTimes='0;0.97777777777778;0.99259259259259;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path44'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path22'>
             - Kubernetes
         </textPath>
     </text>
-        <path id='path45'>
-                            <!-- Multiline -->
-                                <animate id='d45' attributeName='d' begin='0s'
-                    dur='138000ms' fill="freeze"
-                    values='m0,552 h0 ; m0,552 h0 ; m0,552 h800 ; m0,552 h800' keyTimes='0;0.97826086956522;0.99275362318841;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path23'>
+        <animate id='d23' 
+            attributeName='d' \
+            begin='0s'
+            dur='92000ms' 
+            fill="freeze"
+            values='m0,552 h0 ; m0,552 h0 ; m0,552 h800 ; m0,552 h800' 
+            keyTimes='0;0.97826086956522;0.99275362318841;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path45'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path23'>
             - Docker
         </textPath>
     </text>
-        <path id='path46'>
-                            <!-- Multiline -->
-                                <animate id='d46' attributeName='d' begin='0s'
-                    dur='141000ms' fill="freeze"
-                    values='m0,575 h0 ; m0,575 h0 ; m0,575 h800 ; m0,575 h800' keyTimes='0;0.97872340425532;0.99290780141844;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path24'>
+        <animate id='d24' 
+            attributeName='d' 
+            begin='0s'
+            dur='94000ms' 
+            fill="freeze"
+            values='m0,575 h0 ; m0,575 h0 ; m0,575 h800 ; m0,575 h800' 
+            keyTimes='0;0.97872340425532;0.99290780141844;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path46'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path24'>
              
         </textPath>
     </text>
-        <path id='path47'>
-                            <!-- Multiline -->
-                                <animate id='d47' attributeName='d' begin='0s'
-                    dur='144000ms' fill="freeze"
-                    values='m0,598 h0 ; m0,598 h0 ; m0,598 h800 ; m0,598 h800' keyTimes='0;0.97916666666667;0.99305555555556;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path25'>
+        <animate id='d25' 
+            attributeName='d' 
+            begin='0s'
+            dur='96000ms' 
+            fill="freeze"
+            values='m0,598 h0 ; m0,598 h0 ; m0,598 h800 ; m0,598 h800' 
+            keyTimes='0;0.97916666666667;0.99305555555556;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path47'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path25'>
             - Kafka
         </textPath>
     </text>
-        <path id='path48'>
-                            <!-- Multiline -->
-                                <animate id='d48' attributeName='d' begin='0s'
-                    dur='147000ms' fill="freeze"
-                    values='m0,621 h0 ; m0,621 h0 ; m0,621 h800 ; m0,621 h800' keyTimes='0;0.97959183673469;0.99319727891156;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path26'>
+        <animate id='d26' 
+            attributeName='d' 
+            begin='0s'
+            dur='98000ms' 
+            fill="freeze"
+            values='m0,621 h0 ; m0,621 h0 ; m0,621 h800 ; m0,621 h800' 
+            keyTimes='0;0.97959183673469;0.99319727891156;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path48'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path26'>
             - RabitMQ
         </textPath>
     </text>
-        <path id='path49'>
-                            <!-- Multiline -->
-                                <animate id='d49' attributeName='d' begin='0s'
-                    dur='150000ms' fill="freeze"
-                    values='m0,644 h0 ; m0,644 h0 ; m0,644 h800 ; m0,644 h800' keyTimes='0;0.98;0.99333333333333;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#9C4747' font-size='18'
+
+    <path id='path27'>
+        <animate id='d27' 
+            attributeName='d' 
+            begin='0s'
+            dur='100000ms' 
+            fill="freeze"
+            values='m0,644 h0 ; m0,644 h0 ; m0,644 h800 ; m0,644 h800' 
+            keyTimes='0;0.98;0.99333333333333;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' 
+        fill='#9C4747' 
+        font-size='18'
         dominant-baseline='auto'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path49'>
+        x='0%' 
+        text-anchor='start'>
+
+        <textPath xlink:href='#path27'>
             - gRPC
         </textPath>
     </text>
