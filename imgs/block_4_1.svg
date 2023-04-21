@@ -35,7 +35,7 @@
             values='m0,46 h0 ; m0,46 h0 ; m0,46 h800 ; m0,46 h800' 
             keyTimes='0;0.95833333333333;0.98611111111111;1' />
     </path>
-    <text font-family='"Fira Code", monospace' б
+    <text font-family='"Fira Code", monospace'
         fill='#9C4747' 
         font-size='18'
         dominant-baseline='auto'

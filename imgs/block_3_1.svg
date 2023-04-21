@@ -36,7 +36,7 @@
             keyTimes='0;0.94117647058824;0.98039215686275;1' />
     </path>
     <text font-family='"Fira Code", monospace' 
-        fill='#1F1F1F' \
+        fill='#1F1F1F' 
         font-size='18'
         dominant-baseline='auto'
         x='50%' 
