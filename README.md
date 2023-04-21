@@ -11,9 +11,10 @@
 <br />
 <div align="center">
       
-⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕✖️⭕⭕ \
-✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️⭕✖️✖️  
+✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕ \
+⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️
 </div>
+<br />
 <div align="center" class="block_1">
 
 ![Typing SVG](./imgs/block_1_1.svg)
@@ -21,8 +22,18 @@
 <div align="right">
 
 ![Typing SVG](./imgs/block_1_2.svg)
+</div> 
+<div align="center">
+        
+⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️ \
+✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕✖️⭕
 </div>
-<br />    
+<br />
+<div align="center" class="block_1">
+
+![Typing SVG](./imgs/block_2_1.svg)
+</div>
+<br />
 Train my skills: 
 </p>
 Train my skills: 
